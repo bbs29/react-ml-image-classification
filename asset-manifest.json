@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ml-image-classification/static/css/main.873b219a.chunk.css",
+    "main.js": "/react-ml-image-classification/static/js/main.77bd8b1b.chunk.js",
+    "main.js.map": "/react-ml-image-classification/static/js/main.77bd8b1b.chunk.js.map",
+    "runtime-main.js": "/react-ml-image-classification/static/js/runtime-main.44995a1f.js",
+    "runtime-main.js.map": "/react-ml-image-classification/static/js/runtime-main.44995a1f.js.map",
+    "static/js/2.3dcbb1ca.chunk.js": "/react-ml-image-classification/static/js/2.3dcbb1ca.chunk.js",
+    "static/js/2.3dcbb1ca.chunk.js.map": "/react-ml-image-classification/static/js/2.3dcbb1ca.chunk.js.map",
+    "static/js/3.bfedf550.chunk.js": "/react-ml-image-classification/static/js/3.bfedf550.chunk.js",
+    "static/js/3.bfedf550.chunk.js.map": "/react-ml-image-classification/static/js/3.bfedf550.chunk.js.map",
+    "index.html": "/react-ml-image-classification/index.html",
+    "static/css/main.873b219a.chunk.css.map": "/react-ml-image-classification/static/css/main.873b219a.chunk.css.map",
+    "static/js/2.3dcbb1ca.chunk.js.LICENSE.txt": "/react-ml-image-classification/static/js/2.3dcbb1ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44995a1f.js",
+    "static/js/2.3dcbb1ca.chunk.js",
+    "static/css/main.873b219a.chunk.css",
+    "static/js/main.77bd8b1b.chunk.js"
+  ]
+}
